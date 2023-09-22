@@ -1,0 +1,54 @@
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\BTL_Doluongcongnghiepmr.exe.config
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\BTL_Doluongcongnghiepmr.exe
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\BTL_Doluongcongnghiepmr.pdb
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.AssemblyReference.cache
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.SuggestedBindingRedirects.cache
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.Form1.resources
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.Properties.Resources.resources
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.GenerateResource.cache
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.CoreCompileInputs.cache
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.exe
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.pdb
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ZedGraph.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ZedGraph.xml
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\de\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\es\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\fr\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\hu\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\it\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ja\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\pt\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ru\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\sk\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\sv\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\tr\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\MyDocument\Study\Industrial Instrumentation\BTL\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.CopyComplete
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\BTL_Doluongcongnghiepmr.exe.config
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\BTL_Doluongcongnghiepmr.exe
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\BTL_Doluongcongnghiepmr.pdb
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.Form1.resources
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.csproj.CopyComplete
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.exe
+C:\Users\Admin\Downloads\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\BTL_Doluongcongnghiepmr\obj\Debug\BTL_Doluongcongnghiepmr.pdb
